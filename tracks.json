@@ -1,0 +1,12 @@
+[
+  {
+    "cover": "https://yourdomain.com/covers/track1.jpg",
+    "audio": "https://yourdomain.com/previews/track1.mp3",
+    "title": "Название трека 1"
+  },
+  {
+    "cover": "https://yourdomain.com/covers/track2.jpg",
+    "audio": "https://yourdomain.com/previews/track2.mp3",
+    "title": "Название трека 2"
+  }
+]
